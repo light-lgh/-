@@ -1,10 +1,12 @@
-# -
-duduclock自用版本  
+# duduclock自用版本
+  
 1.修改了屏幕接线用来控制亮度  
 ![image](img/网购转接板接线.jpg)  
 2.更改按键逻辑，按键单击下一页，双击上一页  
 3.删除计时器  
 4.增加低功耗模式，超过一定时间进入休眠，以增加电池的续航，低功耗关闭wifi，没有按键唤醒天气不会更新  
-5.默认亮度defaultBrightness设置为200，进入低功耗模式的亮度lowBrightness为5  
+5.默认亮度defaultBrightness设置为200，进入低功耗模式的亮度lowBrightness为5    
 
-
+参考视频
+【DuDuclock 复刻 智能天气时钟】  
+ https://www.bilibili.com/video/BV11ivTzeEBu/?share_source=copy_web&vd_source=0943c63425a90970e6fffb1efc6d5ff9
